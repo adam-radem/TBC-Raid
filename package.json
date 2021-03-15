@@ -1,0 +1,23 @@
+{
+  "name": "tbc-raid",
+  "version": "1.0.0",
+  "description": "TBC Raid data website",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Adam Rademacher",
+  "license": "SEE LICENSE IN license.md",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam-radem/TBC-Raid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adam-radem/TBC-Raid/issues"
+  },
+  "homepage": "https://github.com/adam-radem/TBC-Raid#readme"
+}
